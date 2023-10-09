@@ -10,4 +10,6 @@ Growth Mindset = effort and hardwork --> develop skills and abilities
 2. Ask questions for help
 3. Continuously look for ways to improve
 
-Please take a look at my current work [here]()
+Please take a look at my [GitHub Profile](https://github.com/evidad)
+
+
