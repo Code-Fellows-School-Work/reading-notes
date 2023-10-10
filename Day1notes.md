@@ -1,4 +1,4 @@
-# Afternoon notes
+# Day 1 notes
 ## The Coder's Computer
 
 ### Answer
