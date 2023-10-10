@@ -12,7 +12,7 @@
 
 ## Purpose of Git
 
-Commonly used DVCS to store and reference code
+Commonly used DVCS to store code and allows multiple developers to collaborate0
 
 Git local operations meaning??
 
