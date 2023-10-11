@@ -13,4 +13,4 @@ Growth Mindset = effort and hardwork --> develop skills and abilities
 
 Please take a look at my [GitHub Profile](https://github.com/evidad)
 
-
+[Read 02](Read02notes.md)
