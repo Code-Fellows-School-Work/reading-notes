@@ -45,6 +45,10 @@ CD: change directory
 
 ### Answer
 What are four important features to look for in a text editor?
+1. compatibility accross multiple operating systems
+2. syntax highlighting
+3. customizable themes
+4. code completion shortcuts
 
 What do the following commands do?
 
