@@ -9,7 +9,7 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 # Table of contents
 
 ## Code 102 Reading Notes
-[Class 1 Notes - Learning Markdown](reading-notes/code-102/class1.md)
+[Class 1 Notes - Learning Markdown](class1.md)
 
 [Class 2 Notes - The Coder's Computer](reading-notes/code-102/class2.md)
 
