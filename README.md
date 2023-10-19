@@ -9,11 +9,11 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 # Table of contents
 
 ## Code 102 Reading Notes
-[Class 1 Notes - Learning Markdown](reading-notes/code-102/class1.md)
+[Class 1 Notes - Learning Markdown](reading-notes/code-102/Class 1 - Learning Markdown.md)
 
-[Class 2 Notes - The Coder's Computer](reading-notes/code-102/class2.md)
+[Class 2 Notes - The Coder's Computer](reading-notes/code-102/Class 2 - The Coder's Computer.md)
 
-[Class 3 Notes - Revisions and the Cloud](creading-notes/code-102/class3.md)
+[Class 3 Notes - Revisions and the Cloud](creading-notes/code-102/Class 3 - Revisions and the Cloud.md)
 
 [Class 4 Notes - Structure Webpages for HTML](reading-notes/code-102/class4.md)
 
