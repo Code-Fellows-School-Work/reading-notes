@@ -11,7 +11,7 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 ## Code 102 Reading Notes
 [Class 1 Notes - Learning Markdown](class1.md)
 
-[Class 2 Notes - The Coder's Computer](reading-notes/code-102/class2.md)
+[Class 2 Notes - The Coder's Computer](code-102/class2.md)
 
 [Class 3 Notes - Revisions and the Cloud](creading-notes/code-102/class3.md)
 
