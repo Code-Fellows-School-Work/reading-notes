@@ -1,4 +1,4 @@
-# Class 8 Notes - Operators and Loops
+# Class 08 Notes - Operators and Loops
 
 Expressions and operators
 - Expressions are codes that resolve value

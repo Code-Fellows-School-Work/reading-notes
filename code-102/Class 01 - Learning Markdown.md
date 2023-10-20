@@ -1,4 +1,4 @@
-# Class 1 - Learning Markdown
+# Class 01 - Learning Markdown
 
 - Lightweight markup language used to add formatting elements to plaintext documents
 - Different from a word editor
@@ -29,5 +29,3 @@ What are the three symbols you can use to create an unordered (bulleted) list wi
 [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/#lists-1)
 
 [Markdown for GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-# dragonfly

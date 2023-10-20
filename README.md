@@ -30,7 +30,7 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 ## Code 201 - Foudnations of Software Development
 [Prework - Prompt Engineering](code-201/prompt-engineering.md)
 
-[Class 1]
+[Class 01]
 
 [Class 2]
 

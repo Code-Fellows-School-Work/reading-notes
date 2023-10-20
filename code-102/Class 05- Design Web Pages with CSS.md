@@ -1,4 +1,4 @@
-# Class 5 Notes - Design Web Pages with CSS
+# Class 05 Notes - Design Web Pages with CSS
 
 ## [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 

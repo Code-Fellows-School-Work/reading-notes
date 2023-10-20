@@ -1,4 +1,4 @@
-# Class 6 Notes - Activate Web Pages with Javascript
+# Class 06 Notes - Activate Web Pages with Javascript
 
 ## Answer
 

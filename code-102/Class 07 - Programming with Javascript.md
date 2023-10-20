@@ -1,4 +1,4 @@
-# Class 7 Notes - Programming with JavaScript
+# Class 07 Notes - Programming with JavaScript
 
 ## [MDN Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
 
