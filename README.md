@@ -62,4 +62,3 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 ## Code 401 - Advanced Software Development
 
-#000000
