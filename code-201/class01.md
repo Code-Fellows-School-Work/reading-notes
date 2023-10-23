@@ -33,7 +33,8 @@ Steps to creating a website
 - Functions allow to reuse code
 - Events output a result when a certain activity on a browser is executed (clicking on the webpage)
 
-## Questions
+### Questions
+
 1. Compose a short poem describing how HTTP sends data between computers.
 - Client requests website via browser
 - Browser sends request to server
@@ -63,7 +64,7 @@ Variables are containers that store values. They're important because they're us
     4. Attributes of the tag (if needed)
     5. Element (all of the above)
 
-## [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+## [HTML Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 - HTML uses block level elements to categorize specific areas of a website (header, nav, main, siderbar, footer)
 - Additional definitions for main, article, section, aside
 - Additional definitions for non-semantic grouping such as div, span
@@ -76,7 +77,8 @@ Variables are containers that store values. They're important because they're us
 - Meta element adds metadata to HTML document
 - Description of website for google searches can also be entered here
 - Link element for CSS and script element of JavaScript also entered here
-## Questions
+
+### Questions
 
 1. What is an HTML attribute?
 - Extra information about the element that will not display in the end result. Examples used are for images (src attribute), alt for text description of image, and width and height for an image.
@@ -97,7 +99,48 @@ Variables are containers that store values. They're important because they're us
 
 ## [How to start to design a Website](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Design_and_accessibility/Thinking_before_coding)
 
+- Think about the topic and it's purpose
+- Determine how the website can help achieve goals
+- Break down each goal to smaller steps and create a to do list on how to achieve each goal
+
+### Questions
+
+1. What is the first step to designing a Website?
+- Answer what needs to be accomplished
+2. What is the most important question to answer when designing a Website?
+- How does this website help me achieve my goal(s)?
+
+## [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+
+Def: Meaning of a piece of code (what effect does this code have)
+
+- Semantics takes the contents and gives a label to that content
+- Can be used in HTML, CSS and JavaScript
+
+### Questions
+
+1. Why should you use an h1 element over a span element to display a top level heading?
+- It influences search engine optimization and it's easier to find the proper code within the HTML document
+2. What are the benefits of using semantic tags in our HTML?
+- It adds emphasis to content, makes information visually standout, or help organize the structure of the HTML document
+
+## [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+
+- JavaScript enables dynamically updating content, control multimedia, animate images, and much more!
+- JavaScript code is typically run from top to bottom
+- JavaScript can be added internal, external or inline
+
+### Questions
+
+1. Describe 2 things that require JavaScript in the Browser?
+Browser and third-party APIs that connect the website to information stored elsewhere and any components of the website that allow the user to dynamically interact with webpage
+2. How can you add JavaScript to an HTML document?
+- Internal (directly within HTML document), external (referencing from seperate external file) or inline (directly within affected HTML element)
+
 ## Things I want to know more about
+
 - JavaScript functions and events
 - DOM tree and CSSOM structure when a browser retrieves and loads a website
 - Examples of how to use non-semantic wrappers in HTML
+- Differences between intereted and compiled
+- What is an application Programming Interface (API)?
