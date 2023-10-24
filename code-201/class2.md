@@ -54,20 +54,32 @@ Additional things that can be conducted in JavaScript are adding comments using 
 1. What data type is a sequence of text enclosed in single quote marks?
 - A string data type
 2. List 4 types of JavaScript operators.
-- Arithmetic (math operators), assignment (assigning variable), logical (AND, OR, NOT), comparison (ex. ===)
+- Arithmetic (math operators), assignment (assigning variable), logical (AND, OR, NOT), comparison (ex. ```===```)
 3. Describe a real world Problem you could solve with a Function.
 - I've recently been doing home projects so I can use a function to calculate how much material I need for the amount of square footage of my home that needs repair. It would look similar to a math problem such as: total square feet * cost of material = total repair cost
 
 ## [Making Decisions in your Code - Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+JavaScript uses if... then statements to enable specific actions to be executed when a specific condition exists or occurs
 
 ## Questions
 
 1. An if statement checks a __ and if it evaluates to ___, then the code block will execute.
-2. What is the use of an else if?
+- condition, true
+2. What is the use of an ```else if```?
+- Used in conjunction with a ```if... else``` statement to chain multiple ```if... else``` conditions
 3. List 3 different types of comparison operators.
-4. What is the difference between the logical operator && and ||?
+- ```===``` strictly equal
+- ```!==``` strictly not equal
+- ```<``` and ```>``` less than and greater than
+4. What is the difference between the logical operator ```&&``` and ```||```?
+- ```&&``` returns true if statements on both side of the operator are true. If one side is false or both sides are false, then the operator returns false - primarily used when both conditions needs to be true
+- ```||``` returns true if at least one side of the operator returns true. If both sides are false, then the operator returns false - primarily used when at least one condition needs to be true
+
+## [Writing a Good Git Commit Message](https://cbea.ms/git-commit/)
+Best practices on writing good Git commit messages
 
 ## Things I want to know more about
 
 I personally do not like CSS so I want to learn more convenient methods to write CSS code to make the process simplier and easier
 More shortcuts for shorthand CSS in order to write cleaner CSS code
+if.. else statements and switch statements - practicing writing this code out practically
