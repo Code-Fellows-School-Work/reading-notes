@@ -1,0 +1,5 @@
+What do you hope to get out of your experience?
+Why did you start classes now, at this time in your life?
+What's the "why behind the why", your deeper motivation for pursuing this?
+
+Prior to this class, I worked as a contractor within the defense industry and my goal is to gain the necessary coding skills for a software engineering role then return to the defense industry. I started classes now because the timing seemed right within my personal and professional life and it's uncertain if VECTEC funding will be available next year so I decided it's now or never. During my time as an active duty servicemember, I've observed a lot of practices and processes that are outdated by technology. My ultimate goal is to reach back to my previous branch of service and use software engineering to innovate and improve those old methods.
