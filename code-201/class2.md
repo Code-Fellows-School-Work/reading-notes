@@ -42,7 +42,7 @@ CSS makes HTML look pretty and there are three ways to apply it:
 1. What is representing the selector?
 - H2
 2. Which components are the CSS declarations?
-- Property + value = delcaration so {color(property): black(value)} is one declaration and the other is {padding: 5px;}
+- Property + value = delcaration so ```color``` (property): ```black``` (value) is one declaration and the other is ```padding: 5px```
 3. Which components are considered properties?
 - Color and padding
 
