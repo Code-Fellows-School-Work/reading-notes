@@ -32,7 +32,7 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 - [Class 01](code-201/class01.md)
 
-- [Class 02]
+- [Class 02](code-201/class2.md)
 
 - [Class 03]
 
