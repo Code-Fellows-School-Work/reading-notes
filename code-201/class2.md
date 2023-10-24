@@ -80,6 +80,6 @@ Best practices on writing good Git commit messages
 
 ## Things I want to know more about
 
-I personally do not like CSS so I want to learn more convenient methods to write CSS code to make the process simplier and easier
-More shortcuts for shorthand CSS in order to write cleaner CSS code
-if.. else statements and switch statements - practicing writing this code out practically
+- I personally do not like CSS so I want to learn more convenient methods to write CSS code to make the process simplier and easier
+- More shortcuts for shorthand CSS in order to write cleaner CSS code
+- if.. else statements and switch statements - practicing writing this code out practically
