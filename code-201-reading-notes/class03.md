@@ -30,6 +30,12 @@
 
 ## [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
 - Used to store a list of items within a single variable
+## [Operators and Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+- An expression is a sort of equation that solves to a value and the operator is the action or calculation between two or more values 
+## [Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+JavaScript uses if... then statements to enable specific actions to be executed when a specific condition exists or occurs
+## [Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
+Loops are code that executes a certain task or action over and over again
 
 ### Questions
 1. What data types can you store inside of an Array?
@@ -37,8 +43,21 @@
 2. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
 
  ```const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];```
+
+- It doesn't look like a complete array because it's missing the variable assignments but based on the pattern, I assume the variable assignments are:
+- ```const name```
+- ```const age```
+- ```const profession```
+- ```const hobbies```
+- Therefore you would access the values by recalling the appropriate variable with the number item in the array
  
 3. List five shorthand operators for assignment in javascript and describe what they do.
+- Assignment  ```x = f() ``` =  ```x =  f() ``` - assign a value to a variable
+- Addition assignment ```x += f() ``` =  ```x = x + f() ``` - performs addition or concatination for strings and assigns result to the left operand
+- Subtration assignment  ```x -= f() ``` =  ```x = x - f() ``` - performs subtraction and assigns result to the left operand
+- Multiplication assignment ```x *= f() ``` =  ```x = x * f() ``` - performs multiplication and assigns results to the left operand
+- Division  assignment ```x /= f() ``` =  ```x = x / f() ``` - performs division and assigns results to the left operand
+- 
 4. Read the code below and evaluate the last expression and explain what the result would be and why.
 
   ```let a = 10; ```
@@ -48,7 +67,13 @@
   // evaluate this 
 
  ```(a + c) + b;```
+
+ - JS converts false to 0 so starting with order of operations, 10 + 0 = 10, then 10 + the string dog is a concatination to 10dog. So the final result is 10dog.
 5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
-- fdsfs
+- If prompting the user to answer a yes or no question and the developer wants to respond with a specific response to yes and a specific response to no
 6. Give an example of when a Loop is useful in JavaScript.
-- fdsfds
+- If you want to perform a simple mathematical equation multiple times. Writing a loop code would be more efficient because it will reduce the amount of code written as opposed to individually writing out code equal to the amount of times that code should be executed.
+
+### Things I want to know more about
+- Shorthand operators is challenging to wrap my head around. I would like to see some in class examples
+- I don't understand everything underneath division assignment in the expression and operators shorthand list
