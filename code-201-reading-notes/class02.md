@@ -1,4 +1,4 @@
-# Class 2 - Basics of HTML, CSS and JavaScript
+# Class 02 - Basics of HTML, CSS and JavaScript
 
 ## [HTML Fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
 HTML semantics describes the purpose of the content that it's enclosing. It adds structure to help format a webpage. It also helps for accessibility, search engine optimization and organizes content.
