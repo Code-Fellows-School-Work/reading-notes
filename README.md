@@ -11,28 +11,28 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 # Table of contents
 
 ## Code 102 - Introduction to Software Development
-- [Class 01 Notes - Learning Markdown](code-102/Class%201%20-%20Learning%20Markdown.md)
+- [Class 01 Notes - Learning Markdown](code-102-reading-notes/Class%2001%20-%20Learning%20Markdown.md)
 
-- [Class 02 Notes - The Coder's Computer](code-102/Class%202%20-%20The%20Coder's%20Computer.md)
+- [Class 02 Notes - The Coder's Computer](code-102-reading-notes/Class%2002%20-%20The%20Coder's%20Computer.md)
 
-- [Class 03 Notes - Revisions and the Cloud](code-102/Class%203%20-%20Revisions%20and%20the%20Cloud.md)
+- [Class 03 Notes - Revisions and the Cloud](code-102-reading-notes/Class%2003%20-%20Revisions%20and%20the%20Cloud.md)
 
-- [Class 04 Notes - Structure Webpages for HTML](code-102/Class%204%20-%20Structure%20Webpages%20for%20HTML.md)
+- [Class 04 Notes - Structure Webpages for HTML](code-102-reading-notes/Class%2004%20-%20Structure%20Webpages%20for%20HTML.md)
 
-- [Class 05 Notes - Design Web Pages with CSS](code-102/Class%205-%20Design%20Web%20Pages%20with%20CSS.md)
+- [Class 05 Notes - Design Web Pages with CSS](code-102-reading-notes/Class%2005-%20Design%20Web%20Pages%20with%20CSS.md)
 
-- [Class 06 Notes - Activate Web Pages with Javascript](code-102/Class%206%20-%20Activate%20Web%20Pages%20with%20Javascript.md)
+- [Class 06 Notes - Activate Web Pages with Javascript](code-102-reading-notes/Class%2006%20-%20Activate%20Web%20Pages%20with%20Javascript.md)
 
-- [Class 07 Notes - Programming with Javascript](code-102/Class%207%20-%20Programming%20with%20Javascript.md)
+- [Class 07 Notes - Programming with Javascript](code-102-reading-notes/Class%2007%20-%20Programming%20with%20Javascript.md)
 
-- [Class 08 Notes - Operators and Loops ](code-102/Class%20%208%20-%20Operators%20and%20Loops.md)
+- [Class 08 Notes - Operators and Loops ](code-102-reading-notes/Class%2008%20-%20Operators%20and%20Loops.md)
 
 ## Code 201 - Foudnations of Software Development
-- [Prework - Prompt Engineering](code-201/prompt-engineering.md)
+- [Prework - Prompt Engineering](code-201-reading-notes/prompt-engineering.md)
 
-- [Class 01](code-201/class01.md)
+- [Class 01](code-201-reading-notes/class01.md)
 
-- [Class 02](code-201/class2.md)
+- [Class 02](code-201-reading-notes/class2.md)
 
 - [Class 03]
 
