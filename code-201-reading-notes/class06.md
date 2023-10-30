@@ -45,10 +45,11 @@
 
 ## [Introduction to DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 - Document Object Model (DOM) - a programming interface for web documents
+- Using a DOM Viewer online took through Google will help visuallize how DOM represents XML and HTML documents into a tree structure
 
 ### Questions
 1. What is the DOM?
-- Document Object Model that represents the content of an XML or HTML document into a tree structure
+- Document Object Model that represents the content of an XML and HTML document into a tree structure
 2. Briefly describe the relationship between the DOM and JavaScript.
 - JS is a programming language used to interact with the DOM
 
