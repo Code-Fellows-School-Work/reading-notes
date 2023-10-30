@@ -40,7 +40,7 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 - [Class 05](code-201-reading-notes/class05.md)
 
-- [Class 06]
+- [Class 06](code-201-reading-notes/class06.md)
 
 - [Class 07]
 
