@@ -1,6 +1,9 @@
 # Class 06 - Problem Domain, Objects, and the DOM
 
 ## [JS Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+- An object is a collection of related data or functionality
+- Objects consist of serveral variables and functions 
+- Variables and functions inside of objects are called properties and methods
 
 ### Questions
 
