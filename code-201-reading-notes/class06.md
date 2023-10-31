@@ -5,9 +5,9 @@
 - Objects consist of serveral variables (properties) and functions (methods)
 - Each object is made up of multiple items and each has a name paired with a value:
 - Syntax ex. ``` let objectName = {```
-                    ```Name1: Value1;```
-                    ```Name2: Value2;```
-                    ```Name3: Value3;```
+                    ```Name1: Value1,```
+                    ```Name2: Value2,```
+                    ```Name3: Value3,```
 ```};```
 - Dot notation and bracket notations are ways to access object properties
 - Dot notation ex. ```objectName.Name1;```
@@ -62,4 +62,5 @@
 ## Things I want to know
 - So does removing the function () piece from a method make it an object literal? 
 - this. is hard to wrap my head around
+    - After the class lecture I understand ```this.``` is used within the object and provides reference
 - So DOM in other words is the bridge that connects developers to the webpage?
