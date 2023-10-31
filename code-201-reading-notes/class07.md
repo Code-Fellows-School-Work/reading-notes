@@ -52,6 +52,10 @@
 1. Explain prototypes and inheritance via an analogy from your previous work experience.
 - When I first joined my previous company, I was a prototype that was inexperienced but possessed the basic skills and attributes required for my position. My first day, I met with HR and inheritted skills and knowledge regarding the company's core values, general office etiquette and company benefits. Overtime, I developed my level of knowledge and when my office hired a new employee, I had an oppotunity to share my skills and level of knowledge to the new employee so they can inherit those same skills and information I previously learned.
 
+## Additional Resources
+
+## [HTML Tables - Advanced and Accessibility](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)
+
 ## Thing I want to know more about
 - I would like to see the domain modeling process in action from defining the problem domain, determining the metrics, writing the object-oriented codes, and running the numbers.
 - How can I use a constructor to simplify the 5 objects I wrote in lab06
