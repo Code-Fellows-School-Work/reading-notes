@@ -32,7 +32,7 @@
 ## Additional Resources
 
 ## [More Flexbox Layout](https://web.dev/learn/css/layout/)
-- What are some additional properties to control and use flexbox?
-- Can I use flexbox for a grid?
 
 ## Things I want to know more about
+- What are some additional properties to control and use flexbox?
+- Can I use flexbox for a grid?
