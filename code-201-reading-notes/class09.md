@@ -27,10 +27,17 @@
 - ```Button``` allows user to submit data
 
 ## [Intro to Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
+- Events are instances or occurances that trigger JavaScript code
+- An event handler is something attached to a block of code 
+that ties the event to JavaScript code
+- When an event is run, it's referred to as registering an event handler
+- Event objects are specified using ```event```, ```evt```, or ```e```
 
 ### Questions
 1. How would you describe events to a non-technical friend?
+- Events are triggers that cause things to happen. For example, if you press a button for the elevator, then a elevator will move to your floor and the doors will open
 2. When using the addEventListener() method, what 2 arguments will you need to provide?
+- Event type that specifies the type of event to be listened to and the name of the JavaScript function
 3. Describe the event object. Why is the target within the event object useful?
 4. What is the difference between event bubbling and event capturing?
 
