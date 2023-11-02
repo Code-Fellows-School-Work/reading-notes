@@ -31,7 +31,8 @@
 - An event handler is something attached to a block of code 
 that ties the event to JavaScript code
 - When an event is run, it's referred to as registering an event handler
-- Event objects are specified using ```event```, ```evt```, or ```e```
+- Event objects are specified using ```event```, ```evt```, or ```e``` (or really any name but those are commonly used) and target is used to reference the event to the element
+- Event bubbling and capturing refers to the order of event propagation. Bubbling occurs on a nested element and continues to executing up the ancestor elements whereas capturing begins at the ancestor element and works down to the nested element
 
 ### Questions
 1. How would you describe events to a non-technical friend?
@@ -39,7 +40,9 @@ that ties the event to JavaScript code
 2. When using the addEventListener() method, what 2 arguments will you need to provide?
 - Event type that specifies the type of event to be listened to and the name of the JavaScript function
 3. Describe the event object. Why is the target within the event object useful?
+- Event object provides information about the event that occurred and the event target ties the event to the HTML element
 4. What is the difference between event bubbling and event capturing?
+- Bubbling and capturing refers to the order of event propagation. Bubbling begins from the nested element and works its way up through the ancestered elements whereas capturing reverses the order and begins with the ancestered element and works its way down to the nested element
 
 ## Additional Resources
 
@@ -48,4 +51,6 @@ that ties the event to JavaScript code
 ## [Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
 
 ## Things I want to know more about
-
+- Examples on how to implement events in the cookie-stand lab
+- Seeing event bubbling and capturing in a use case example
+- The process of determining how to plan and design a web form
