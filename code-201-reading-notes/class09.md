@@ -37,7 +37,7 @@ that ties the event to JavaScript code
 ### Questions
 1. How would you describe events to a non-technical friend?
 - Events are triggers that cause things to happen. For example, if you press a button for the elevator, then a elevator will move to your floor and the doors will open
-2. When using the addEventListener() method, what 2 arguments will you need to provide?
+2. When using the ```addEventListener()``` method, what 2 arguments will you need to provide?
 - Event type that specifies the type of event to be listened to and the name of the JavaScript function
 3. Describe the event object. Why is the target within the event object useful?
 - Event object provides information about the event that occurred and the event target ties the event to the HTML element
