@@ -17,12 +17,18 @@
 - This will be helpful in making debugging more efficient and less painful. Understanding what capabilities of these debugging tools with help reduce the amount of time troubleshooting code and will help with project completion
 
 ## [Browser Developer Tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools#the_javascript_debugger)
-
+- Browser Developer tools enables inspection of currently-loaded HTML, CSS and JavaScript on the webpage
+- They can also be used to modify the current lines of code to preview the changes on the webpage 
+- I've seened HTML and CSS modified using developer tools
+- JavaScript has dev tools to select a point to run code up to called a breakpoint
 
 ### Questions
 1. How would you describe the JavaScript Debugger tool and how it works to someone just starting out in software development?
+The debugger tool allows you to see under-the-hood of your HTML, CSS and JS files so you can identify issues with your code and also modify the code and review how the browser will respond to that updated code.
 2. Define what a breakpoint is.
+- A browser dev tool used to pause the execution of JavaScript code at a specific point to help troubleshoot or identify issues in code
 3. What is the call stack?
+- Identifies what code is used to get to the current line
 
 ## Additional Resources
 
@@ -31,4 +37,5 @@
 ## [Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)
 
 ## Things I want to know more about
-
+- Are there any more types of error codes or is it just syntax or logic?
+- Do different browser have different browser dev tools? Or are they all the same?
