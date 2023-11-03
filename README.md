@@ -48,7 +48,7 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 - [Class 09](code-201-reading-notes/class09.md)
 
-- [Class 10]
+- [Class 10](code-201-reading-notes/class10.md)
 
 - [Class 11]
 
