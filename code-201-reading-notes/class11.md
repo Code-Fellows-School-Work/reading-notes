@@ -26,17 +26,42 @@ Write a very short story where ```<audio>``` and ```<video>``` are characters.
 - Grid is two-dimensional allowing to arrange content in both rows and columns whereas flex is one-dimensional and arranges content in either one row or one column
 2. Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences.
 - Grid container is the direct parent of grid elements and defines the grid area
-- Grid item are child elements of a grid and they are positioned and aligned within the grid container 
+- Grid item are child elements of a grid and they are positioned and aligned within the grid container
 - Grid line are horizontal or vertical lines that divide content within the grid
 
 ## [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+- Responsive images enable adaptive image size adjustments within the html webpage based on the size of the screen the user is using
+- Resolution switching provides multiple options for an images and allows the brower to choose the appropriate one
+- ```srcset``` allows the browser to choose between which image size to you
+- ```sizes``` provides the browser a recommendation for which image to use
 
 ### Questions
 1. Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
+- Reduce data transfer bandwidth which can result in faster loading times
 2. Define the following <img> attributes srcset and sizes. Write an example of how they are used.
+- ```srcset``` allows the browser to choose between which image size to you
+- ```sizes``` provides the browser a recommendation for which image to use
+
+   - < img src ="image.jpg"
+
+   - srcset ="image.jpg 2x, image.jpg 3x" 
+
+   - sizes="(max-width:600px) 100 vw, (max-width: 1024px) 50vw">
+
+        - 2x and 3x tells the browser to use either this image for this resolution density or the other
+
+        - images up to 600 pixels use 100% viewport and images between 601-1024px use 50% viewport
+
 3. How is srcset more helpful for responsive images than CSS or JavaScript?
+
+- Reduces browser workload by conducting all the decision-making within the html webpage as opposed to rendering a separate file 
 
 ## Additional Resources
 
+## [Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
+
+## [Embedding Technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
+
 ## Things I want to know more about
 
+- Are there any advantages of using CSS or JavaScript to do the same thing and choose image size for browser optimization?

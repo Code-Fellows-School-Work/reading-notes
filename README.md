@@ -50,7 +50,7 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 - [Class 10](code-201-reading-notes/class10.md)
 
-- [Class 11]
+- [Class 11 - Audio, Video and Images](code-201-reading-notes/class11.md)
 
 - [Class 12]
 
