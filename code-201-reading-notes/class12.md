@@ -28,10 +28,14 @@
 - Bar chart, line chart, pie chart
 
 ## [Animated Charts](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
+- Charts are easier to look at than tables
+- This website demonstrates step-by-step instructions on how to render line charts, pie charts, and bar charts
 
 ### Questions
 1. What are some advantages to displaying data via a chart over a table?
+- Charts allows viewers to understand and draw conclusions easier and quicker than a table
 2. How could Chart.js aid your previously created applications visually?
+- Change the amount of clicks and amount of views for each odd duck image to a bar chart
 
 ## Additional Resources
 
@@ -42,4 +46,5 @@
 ## [Drawing Text - Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
 
 ## Things I want to know more about
+- What other plug ins are available that can be used to render content onto a HTML5 webpage?
 
