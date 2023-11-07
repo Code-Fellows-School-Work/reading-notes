@@ -52,7 +52,7 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 - [Class 11 - Audio, Video and Images](code-201-reading-notes/class11.md)
 
-- [Class 12]
+- [Class 12 - Chart.js, Canvas](code-201-reading-notes/class12.md)
 
 - [Class 13]
 
