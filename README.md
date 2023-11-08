@@ -54,7 +54,7 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 - [Class 12 - Chart.js, Canvas](code-201-reading-notes/class12.md)
 
-- [Class 13]
+- [Class 13 - Local Storage](code-201-reading-notes/class13.md)
 
 - [Class 14]
 

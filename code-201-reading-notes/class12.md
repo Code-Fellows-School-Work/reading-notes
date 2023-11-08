@@ -7,6 +7,7 @@
 - ```<fillstyle>``` fills in the shape with color, gradient and image
 - ```<strokestyle>``` adds colors to the shape's edges
 
+
 ### Questions
 1. What does the ```<canvas>``` allow a developer to acheive?
 - Draw 2D graphics using JavaScript
@@ -45,5 +46,5 @@
 ## [Drawing Text - Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
 
 ## Things I want to know more about
-- What other plug ins are available that can be used to render content onto a HTML5 webpage?
+- What other plug ins are available that can be used to render content onto a HTML5 webpage
 
