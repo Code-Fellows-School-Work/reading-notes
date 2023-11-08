@@ -7,7 +7,6 @@
 - ```<fillstyle>``` fills in the shape with color, gradient and image
 - ```<strokestyle>``` adds colors to the shape's edges
 
-
 ### Questions
 1. What does the ```<canvas>``` allow a developer to acheive?
 - Draw 2D graphics using JavaScript
