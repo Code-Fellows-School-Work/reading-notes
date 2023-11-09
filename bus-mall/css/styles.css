@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: lightblue;
+  }
+  
+  img {
+    height: 350px;
+  }
+  
+  canvas {
+    height: 400px;
+    width: 400px;
+  }
