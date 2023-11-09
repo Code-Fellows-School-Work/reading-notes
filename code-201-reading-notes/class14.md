@@ -49,4 +49,5 @@
 
 ## Things I want to know more about
 
-- How does an application that stores user passwords get around the security risks of storing sensitive information? Is it through encryption?
+- Is CSS Tricks the same as Stack Overflow in a sense that it's a community-driven forum to help devs with their designer questions?
+- Is there such thing as a CSS framework? Or a tool to help with CSS design workflow?
