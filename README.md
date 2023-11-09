@@ -58,7 +58,7 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 - [Class 14 - CSS Transformation, Transitions and Animations](code-201-reading-notes/class14.md)
 
-- [Psychological Safety](code-201-reading-notes/class15.md)
+- [Psychological Safety](code-201-reading-notes/psychological-safety)
 
 ## Code 301 - Intermediate Software Development
 
