@@ -30,33 +30,33 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 ## Code 201 - Foudnations of Software Development
 - [Prework - Prompt Engineering](code-201-reading-notes/prompt-engineering.md)
 
-- [Class 01](code-201-reading-notes/class01.md)
+- [Class 01 - Prework](code-201-reading-notes/class01%20-%20Prework.md)
 
-- [Class 02](code-201-reading-notes/class2.md)
+- [Class 02 - Basics of HTML, CSS, Javascript](code-201-reading-notes/class02%20-%20Basics%20of%20HTML%20CSS%20JS.md)
 
-- [Class 03](code-201-reading-notes/class03.md)
+- [Class 03 - HTML Lists, Control Flow with JS, CSS Box Model](code-201-reading-notes/class03%20-%20HTML%20Lists,%20Control%20Flow%20with%20JS,%20CSS%20Box%20Model.md)
 
-- [Class 04](code-201-reading-notes/class04.md)
+- [Class 04 - HTML Links, JS Functions, Intro CSS Layout](code-201-reading-notes/class04%20-%20HTML%20Links,%20JS%20Functions,%20Intro%20CSS%20Layout.md)
 
-- [Class 05](code-201-reading-notes/class05.md)
+- [Class 05 - Images, Colors, Text](code-201-reading-notes/class05%20-%20Images,%20Colors,%20Text.md)
 
-- [Class 06](code-201-reading-notes/class06.md)
+- [Class 06 - Problem Domain, Objects, DOM](code-201-reading-notes/class06%20-%20Problem%20Doamin,%20Objects,%20DOM.md)
 
-- [Class 07](code-201-reading-notes/class07.md)
+- [Class 07 - Object-Oriented Programming, HTML Tables](code-201-reading-notes/class07%20-%20Object-Oriented%20Programming,%20HTML%20Tables.md)
 
-- [Class 08](code-201-reading-notes/class08.md)
+- [Class 08 - CSS Layout](code-201-reading-notes/class08%20-%20CSS%20Layout.md)
 
-- [Class 09](code-201-reading-notes/class09.md)
+- [Class 09 - HTML Forms and Javascript Events](code-201-reading-notes/class09%20-%20HTML%20Forms%20and%20JS%20Events.md)
 
-- [Class 10](code-201-reading-notes/class10.md)
+- [Class 10 - Debugging](code-201-reading-notes/class10%20-%20Debugging.md)
 
-- [Class 11 - Audio, Video and Images](code-201-reading-notes/class11.md)
+- [Class 11 - Audio, Video and Images](code-201-reading-notes/class11%20-%20Audio,%20Video,%20Images.md)
 
-- [Class 12 - Chart.js, Canvas](code-201-reading-notes/class12.md)
+- [Class 12 - Chart.js, Canvas](code-201-reading-notes/class12%20-%20Chart%20and%20Canvas.md)
 
-- [Class 13 - Local Storage](code-201-reading-notes/class13.md)
+- [Class 13 - Local Storage](code-201-reading-notes/class13%20-%20Local%20Storage.md)
 
-- [Class 14 - CSS Transformation, Transitions and Animations](code-201-reading-notes/class14.md)
+- [Class 14 - CSS Transformation, Transitions and Animations](code-201-reading-notes/class14%20-%20CSS%20Transformation,%20Transitions,%20Animations.md)
 
 - [Psychological Safety](code-201-reading-notes/psychological-safety.md)
 
