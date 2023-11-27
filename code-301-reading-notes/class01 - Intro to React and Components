@@ -10,7 +10,21 @@ CBA emphasizes creating modular, reuseable and independent components with well-
 2. What are the characteristics of a component?
 - Reusability, replaceable, not context specific, extensible, encapsulated and independent.
 3. What are the advantages of using component-based architecture?
-- Ease of deployment, reduced cost, reusable, reliability, system maintenance and evolution, and independent
+- Ease of deployment, reduced cost, reusable, reliability, system maintenance and evolution, and independent.
+
+## [What is "Props" and how to use it in React?](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
+Props (properties) are a mechanism for passing data from parent to child component. The unidirectional flow of props supports the creation of modular and reuseable components allowing for dynamic content rendering within a React application.
+
+### Questions
+
+1. What is “props” short for?
+- In React, "props" is short for properties.
+2. How are props used in React?
+- It's a way to pass data and communicate information from a parent component to a child component.
+3. What is the flow of props?
+- Props follows a unidirectional flow where data is passed from parent to child but not the other way around.
 
 ## Things I want to know more about
-
+- What are some best practices when using props in React?
+- How do you utilize and implement CPA in applications?
+- What are some best practices when utilizing CPA within an application?
