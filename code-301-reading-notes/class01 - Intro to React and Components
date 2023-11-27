@@ -1,0 +1,16 @@
+# Class 01 - Intro to React and Components
+
+## [Component Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
+CBA emphasizes creating modular, reuseable and independent components with well-defined interfaces. These components can be assembled and integrated to build complex systems, promoting modularity, scalability and ease of maintenance.
+
+### Questions
+
+1. What is a “component”?
+- A software object that is modular, portable, replaceable and reuseable. It has a set of well-defined functionality and is meant to interact with other components to represent a certain or set of functionalities.
+2. What are the characteristics of a component?
+- Reusability, replaceable, not context specific, extensible, encapsulated and independent.
+3. What are the advantages of using component-based architecture?
+- Ease of deployment, reduced cost, reusable, reliability, system maintenance and evolution, and independent
+
+## Things I want to know more about
+
