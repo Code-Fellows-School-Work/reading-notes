@@ -24,6 +24,18 @@ Props (properties) are a mechanism for passing data from parent to child compone
 3. What is the flow of props?
 - Props follows a unidirectional flow where data is passed from parent to child but not the other way around.
 
+## Additional Resources
+
+## [Passing Data Through Props](https://react.dev/learn/tutorial-tic-tac-toe)
+
+## [React Docs - Hello World](https://legacy.reactjs.org/docs/hello-world.html)
+
+## [React Docs - Introducting JSX](https://legacy.reactjs.org/docs/introducing-jsx.html)
+
+## [React Docs - Rendering Elements](https://legacy.reactjs.org/docs/rendering-elements.html)
+
+## [React Docs - https://legacy.reactjs.org/docs/components-and-props.html](https://legacy.reactjs.org/docs/components-and-props.html)
+
 ## Things I want to know more about
 - What are some best practices when using props in React?
 - How do you utilize and implement CPA in applications?

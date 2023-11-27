@@ -62,4 +62,6 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 ## Code 301 - Intermediate Software Development
 
+- [Class 01 - Introduction to React and Components](code-301-reading-notes/class01%20-%20Intro%20to%20React%20and%20Components.md)
+
 ## Code 401 - Advanced Software Development
