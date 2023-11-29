@@ -66,4 +66,6 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 - [Class 02 - State and Props](code-301-reading-notes/class02%20-%20State%20and%20Props.md)
 
+- [Class 03 - Passing Functions as Props](/code-301-reading-notes/class03%20-%20Passing%20Functions%20as%20Props.md)
+
 ## Code 401 - Advanced Software Development

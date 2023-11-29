@@ -15,7 +15,7 @@ Use the `map` function
 - A unique identifier so React knows what to do with the item in the event that items or inserted, deleted or reordered.
 
 ## [Spread Syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
-
+`...` spread syntax can be used to add all elements of an array or all properties of an object into a new array or object
 
 ### Questions
 
@@ -47,27 +47,23 @@ Logging combinedObject to the console with output {firstName: 'Errol', lastName:
 ### Questions
 
 1. In the video, what is the first step that the developer does to pass functions between components?
+- He passes the `handleClick` function from the parent as a prop to the child's function argument then attaches the `handleClick` to the `onClick` event
 2. In your own words, what does the handleClick function do?
+- When the button in the child component is clicked, then the `handleClick` function is invoked.
 3. How can you pass a method from a parent component into a child component?
+- Use the same steps as passing a function from parent to child
 4. How does the child component invoke a method that was passed to it from a parent component?
+- In the parent component, create a function that accepts a callback (which is the function we want to pass from child to parent).
+- Pass a parent function to the child, then invoke the function using the callback from the child component
 
 
 ## Additional Resources
 
-## [React Docs - State and Lifecycle](https://legacy.reactjs.org/docs/state-and-lifecycle.html)
+## [React Tutorial Through 'Declaring a Winner'](https://react.dev/learn/tutorial-tic-tac-toe)
 
-## [React Docs - Handling Events](https://legacy.reactjs.org/docs/handling-events.html)
+## [React Docs - HLifting State Up](https://react.dev/learn/sharing-state-between-components#lifting-state-up-by-example)
 
-## [React Tutorial Through "Developer Tools"](https://react.dev/learn/tutorial-tic-tac-toe)
-
-## [React Boostrap Documentation](https://react-bootstrap.github.io/)
-
-## [Bootstrap Cheatsheet](https://getbootstrap.com/docs/5.0/examples/cheatsheet/)
-
-## [Bootstrap Shuffle - A Class "Sandbox"](https://bootstrapshuffle.com/classes)
-
-## [Netlify](https://www.netlify.com/)
 
 ## Things I want to know more about
-- Are there any special cases when using this.setState() is appropriate to use?
-- I'd like to see additional examples of props and some considerations on why they're being used outside of the component instead of a state instead of the component.
+- Can spread syntax be used to add only one element from an array or one properties from an object or will it add all of the elements?
+- I don't understand passing functions between components. I need to see another example on the process of passing functions from parent to child and child to parent
