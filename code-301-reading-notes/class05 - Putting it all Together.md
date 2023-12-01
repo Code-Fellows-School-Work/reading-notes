@@ -30,10 +30,17 @@ Steps to implement a UI in React:
     - Within a newly created state component 
 
 ## [Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK)
+A higher-order function is a function that takes in a function as an argument and or returns a function
+Examples of higher-order functions: map, filter, reduce, forEach, sort
 
 ### Questions
 1. What is a “higher-order function”?
+- A function that accepts a function as an argument and or returns a function
 2. Explore the ```greaterThan``` function as defined in the reading. In your own words, what is line 2 of this function doing?
+- Line 2 sets up a comparison function to check if a variable m is greater than a variable n
 3. Explain how either ```map``` or ```reduce``` operates, with regards to higher-order functions.
+- Both map and reduce use a callback function as an argument and they will apply the callback function to each element of an array
 
 ## Things I want to know more about
+- It seems like one advantage of higher-order functions is to simplify code to be more readable and efficient. Are there any additional advantages or even limitations to using them?
+- I need to increase my understanding about state. It seems like it's going to continue being a critical component in the upcoming projects.
