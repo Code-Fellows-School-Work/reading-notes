@@ -1,63 +1,39 @@
 # Class 05 - Putting it all Together
 
-## [How to Use Forms in React](https://www.robinwieruch.de/react-form/)
-- An example of a form in a web application is a login form
-- Another example is a web application where a user clicks the submit button with an attached event handler function
-- Uncontrolled component does not control state whereas a controlled component does control state
-- A form component recevies a callback handler from a parent component to use form data
-- A form can be reset to its intial state after the user completes the form
+## [React Docs - Thinking in React](https://react.dev/learn/thinking-in-react)
+General steps to building a React application: 
+1. Break it apart into components
+2. Describe each component's visual state
+3. Connect components so data flows through them
+
+Steps to implement a UI in React:
+1. Break UI into a component hierarchy
+2. Build a static version in React
+3. Find the minimal but complete representation of UI state
+4. Identify where your state should live
+5. Add inverse data flow
 
 ### Questions
-1. What is a ‘Controlled Component’?
-- A controlled component is a form that has control over state whereas an uncontrolled component does not
-2. Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.
-- It depends on the application and if immediate user-feedback is required. Waiting to store into state responses until the form is submitted results in fewer state updates, but delayed feedback. Updating state with user responses provides immediate feedback, but more state updates.
-3. How do we target what the user is entering if we have an event handler on an input field?
-- Target the event object passed to the event handler function.
+1. What is the ```single responsibility principle``` and how does it apply to components?
+- In step 1 of implementing a UI in React, ```single responsibility principle``` recommends a component should only do one thing
+2. What does it mean to build a ‘static’ version of your application?
+- Building a version without interactivity (make it boring)
+3. Once you have a static application, what do you need to add?
+- Add state to allow users to interact with data
+4. What are the three questions you can ask to determine if something is state?
+    1. Identify every component that renders something using state
+    2. Find the closest common parent component
+    3. Decide where state lives
+5. How can you identify where state needs to live?
+    - Typically in common parent
+    - Sometimes in some component above their parent component
+    - Within a newly created state component 
 
-## [The Conditional (Ternary) Operator](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
-- Shortens if statements (run a certain block of code if a certain condition is met) with the conditional operator
-- Components of a conditional operator:
-1. Condition - what is actually testing and the result should be true or false
-2. A ```?``` separates conditional from true value. Anything between ```?``` and ```:``` is the code that is executed if the condition evaluates true
-3. Anything after ```:``` is the code that is executed if the condition evaluates false
-- Before conditional operator (all code below this point is from reading):
-```if (person.age >= 16) {```
-  ```person.driver = 'Yes';```
-```} else {```
-  ```person.driver = 'No';```
-```}```
-- After conditional operator: 
-```person.driver = person.age >=16 ? 'Yes' : 'No';```
-Another example before conditional operator:
-```if ( condition ) {```
-  ```value if true;```
-```} else {```
-  ```value if false;```
-```}```
-Another example after conditional operator:
-```condition ? value if true : value if false```
+## [Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK)
 
 ### Questions
-
-1. Why would we use a ternary operator?
-- Simplifies if statement codes to increase readability and quicker code writing execution
-2. Rewrite the following statement using a ternary statement:
-
-```if(x===y){```
-  ```console.log(true);```
-```} else {```
-  ```console.log(false);```
-```}```
-
-```console.log(x === y ? true : false);```
-
-## Additional Resources
-
-## [React Bootstrap - Forms](https://react-bootstrap.github.io/docs/forms/overview/)
-
-## [Conditional Rendering](https://react.dev/learn/conditional-rendering)
+1. What is a “higher-order function”?
+2. Explore the ```greaterThan``` function as defined in the reading. In your own words, what is line 2 of this function doing?
+3. Explain how either ```map``` or ```reduce``` operates, with regards to higher-order functions.
 
 ## Things I want to know more about
-- Is there any catch or cons to using a conditional operator? Is there any limitations to when it can be used?
-- Forms seems like it's going to take a lot of critical thinking because you may have to manage and reference state frequently
