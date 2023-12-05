@@ -25,13 +25,16 @@ npm install-g jshint
 - Also used for serverside programming, enabling devs to use JavaScipt to build scalable and high-performancing network applications - ChatGPT
 
 ## [Six Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
-
+Pair programming is a software development practice where two dev pair together to write code. One dev is assigned the driver and is responsible for coding and the other dev is the navigator and is responsible for guiding the driver.
 
 ### Questions
 1. What are the 6 reasons for pair programming?
+- Greater efficiency, engaged collaboration, learning from others, develops social skills, helps prepare for job interview readiness and work environment readiness skills
 2. In your experience, which of these reasons have you found most beneficial?
+- Learning from others because it's an opportunity to help fill in some knowledge gaps by asking and discussing code with others
 3. How does pair programming work?
+- One person is a driver and is responsible for coding and the other person is a navigator and is responsible for guiding the driver, but is not physically coding
 
 ## Things I want to know more about
-- Why is it called a 404 message? Does each digit represent something?
-- I was successful in retrieving APIs for Geocoding and Weather Bit, but could not retrieve Yelp or Movie DB.
+- What does event-based and non-blocking mean in regards to how node.js operates?
+- Are there any limitations to node.js?
