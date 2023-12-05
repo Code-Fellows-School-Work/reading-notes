@@ -35,6 +35,12 @@ Pair programming is a software development practice where two dev pair together 
 3. How does pair programming work?
 - One person is a driver and is responsible for coding and the other person is a navigator and is responsible for guiding the driver, but is not physically coding
 
+## Additional Resources
+
+## [Axios](https://www.npmjs.com/package/axios)
+
+## [MDN Async and Await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)
+
 ## Things I want to know more about
 - What does event-based and non-blocking mean in regards to how node.js operates?
 - Are there any limitations to node.js?
