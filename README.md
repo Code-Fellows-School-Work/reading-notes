@@ -76,6 +76,6 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 - [Class 07 - Node.js](/code-301-reading-notes/class07%20-%20Node.js.md)
 
-- [Classs 08 - APIs](/code-301-reading-notes/class08%20-%20APIs)
+- [Classs 08 - APIs](/code-301-reading-notes/class08%20-%20APIs.md)
 
 ## Code 401 - Advanced Software Development
