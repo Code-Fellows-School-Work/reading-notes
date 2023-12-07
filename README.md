@@ -78,4 +78,6 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 - [Classs 08 - APIs](code-301-reading-notes/class08%20-%20APIs.md)
 
+- [Class 09 - Functional Programming](code-301-reading-notes/class09%20-%20Functional%20Programming.md)
+
 ## Code 401 - Advanced Software Development
