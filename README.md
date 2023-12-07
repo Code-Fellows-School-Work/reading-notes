@@ -66,16 +66,16 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 - [Class 02 - State and Props](code-301-reading-notes/class02%20-%20State%20and%20Props.md)
 
-- [Class 03 - Passing Functions as Props](/code-301-reading-notes/class03%20-%20Passing%20Functions%20as%20Props.md)
+- [Class 03 - Passing Functions as Props](code-301-reading-notes/class03%20-%20Passing%20Functions%20as%20Props.md)
 
-- [Class 04 - React and Forms](/code-301-reading-notes/class04%20-%20React%20and%20Forms.md)
+- [Class 04 - React and Forms](code-301-reading-notes/class04%20-%20React%20and%20Forms.md)
 
-- [Class 05 - Putting it all Together](/code-301-reading-notes/class05%20-%20Putting%20it%20all%20Together.md)
+- [Class 05 - Putting it all Together](code-301-reading-notes/class05%20-%20Putting%20it%20all%20Together.md)
 
-- [Class 06 - Rest](/code-301-reading-notes/class06%20-%20Rest.md)
+- [Class 06 - Rest](code-301-reading-notes/class06%20-%20Rest.md)
 
-- [Class 07 - Node.js](/code-301-reading-notes/class07%20-%20Node.js.md)
+- [Class 07 - Node.js](code-301-reading-notes/class07%20-%20Node.js.md)
 
-- [Classs 08 - APIs](/code-301-reading-notes/class08%20-%20APIs.md)
+- [Classs 08 - APIs](code-301-reading-notes/class08%20-%20APIs.md)
 
 ## Code 401 - Advanced Software Development
