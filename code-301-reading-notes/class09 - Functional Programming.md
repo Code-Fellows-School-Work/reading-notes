@@ -1,7 +1,7 @@
 # Class 09 - Functional Programming
 
 ## [Functional Programming Concepts](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
-# The above article requires a paid subscription so I used these instead:
+## The above article requires a paid subscription so I used these instead:
 ## [Functional Programming Concepts - Alternative](https://en.wikipedia.org/wiki/Functional_programming)
 ## [Advantages of Functional Programming](https://scalac.io/blog/unleashing-the-power-the-advantages-of-functional-programming-in-the-digital-age/)
 - Functional programming is a programming practice that uses pure functions and avoids changing-state.
