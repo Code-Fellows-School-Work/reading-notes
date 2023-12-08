@@ -80,4 +80,6 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 - [Class 09 - Functional Programming](code-301-reading-notes/class09%20-%20Functional%20Programming.md)
 
+- [Class 10 - In Memory Sotrage](code-301-reading-notes/class10%20-%20In%20Memory%20Storage.md)
+
 ## Code 401 - Advanced Software Development
