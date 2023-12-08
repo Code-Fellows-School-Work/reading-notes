@@ -61,6 +61,10 @@ Understanding error messages is critical to debugging code. Try to remove all er
 6. What does the word ‘debugger’ do in your code?
 Adding debugger will show all the running code up to the debugger statement which is helpful for troubleshooting code.
 
+## Additional Resources
+
+## [JavaScript Error Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)
+
 ## Things I want to know more about
 - What actually happens when a stack overflow occurs? Browser crash? Infinite errors in the console?
 - In an infinite loop cause a stack overflow?
