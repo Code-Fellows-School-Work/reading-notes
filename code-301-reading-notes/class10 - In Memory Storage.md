@@ -3,6 +3,8 @@
 ## [Understanding the JavaScript Call Stack](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4)
 A callstack defines how a function is executed. JavaScript follows last in, first out order of executing functions in the call stack. Any issues with the call stack may result in a stack overflow.
 
+### Questions
+
 1. What is a ‘call’?
 - Invoking a function
 2. How many ‘calls’ can happen at once?
