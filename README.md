@@ -82,4 +82,6 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 - [Class 10 - In Memory Sotrage](code-301-reading-notes/class10%20-%20In%20Memory%20Storage.md)
 
+- [Class 11 - MongoDB and Mongoose](code-301-reading-notes/class11%20-%20MongoDB%20and%20Mongoose.md)
+
 ## Code 401 - Advanced Software Development

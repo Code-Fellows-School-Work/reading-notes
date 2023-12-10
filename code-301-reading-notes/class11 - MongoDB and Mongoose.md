@@ -26,28 +26,33 @@ NoSQL
 Depends on the preferred method for scalability. SQL databases can be scaled by increasing CPU, RAM and SSD whereas NoSQL can be scaled by increasing server size
 
 ## [SQL vs NoSQL or MySQL vs MongoDB](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
-Understanding error messages is critical to debugging code. Try to remove all errors prior to acp.
+Additional reference highlighint difference, advantanges and disadvantages of SQL and NoSQL databases
 
 ### Questions
 
-1. What is a ‘reference error’?
-- Try to use a variable that has not been declared
-2. What is a ‘syntax error’?
-- Something that cannot be parsed in terms of syntax (common syntax errors: missing commas or semi-colons)
-3. What is a ‘range error’?
-- Manipulating an object or array with an invalid length
-(common range error: array with a length of -1)
-4. What is a ‘type error’?
-- The data type being used is incomptaible
-5. What is a breakpoint?
-- It's a debugging tool that adds a stopping point in your code to help devs debug
-6. What does the word ‘debugger’ do in your code?
-Adding debugger will show all the running code up to the debugger statement which is helpful for troubleshooting code.
+1. What does SQL stand for?
+Structured Query Language
+2. What is a relational database?
+Database which works with certain assumptions and supports structured query language
+3. What type of structure does a relational database work with?
+Uses tables
+4. What is a ‘schema’?
+A format requirement for storing data
+5. What is a NoSQL database?
+Database that does not use a tabular format like SQL and handles unstructured data
+6. How does it work?
+No or few relations and can access and manipulate unstructured data
+7. What is inside of a MongoDB database?
+Collections, documents, key-value pairs
+8. Which is more flexible - SQL or MongoDB? and why.
+MongoDB because of it's schema-less requirement allowing to add or remove data from data fields
+9. What is the disadvantage of a NoSQL database?
+Because of no schema, that means the data can be less standarized
 
 ## Additional Resources
 
-## [JavaScript Error Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)
+## [Mongoose API](https://mongoosejs.com/docs/api/model.html#Model())
+## [React Router](https://reactrouter.com/en/6.20.1/router-components/browser-router)
 
 ## Things I want to know more about
-- What actually happens when a stack overflow occurs? Browser crash? Infinite errors in the console?
-- In an infinite loop cause a stack overflow?
+- So how do you actually access or query data in a SQL and NoSQL database?
