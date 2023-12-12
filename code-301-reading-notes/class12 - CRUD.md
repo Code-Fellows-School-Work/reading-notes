@@ -37,10 +37,17 @@
 3. What does app.use(express.json()) do?
 - Lets server accept JSON as a body instead of a post element or get element
 4. What does the /:id mean in a route?
+- It's a parameter that we can access to whatever is typed in after the first slash (accessed by req.params.id)
 5. What is the difference between PUT and PATCH?
+- PATCH creates updates based on the specific user input data and will not update the unspecificed input data
+(in other words, if a user only updates their name, then the rest of the information will stay the same and only name will update)
+- PUT will update all the information instead of the specified input data
 6. How do you make a default value in a schema?
+- Use .now method
 7. What does a 500 error status code mean?
+- Error on the server instead of the user or client side
 8. What is the difference between a status 200 and a status 201?
+- 201 means sucessfully created whereas 200 means the response was sucessful but nothing was created
 
 ## Things I want to know more about
 - What's the difference between the startup code npm install express dotenv nodemon and npm install --save-dev express dotenv nodemon? 
