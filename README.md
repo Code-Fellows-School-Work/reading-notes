@@ -84,4 +84,6 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 - [Class 11 - MongoDB and Mongoose](code-301-reading-notes/class11%20-%20MongoDB%20and%20Mongoose.md)
 
+- [Class 12 - CRUD](code-301-reading-notes/class12%20-%20CRUD.md)
+
 ## Code 401 - Advanced Software Development

@@ -26,7 +26,7 @@
 - Code 403 indiciating the client does not have permissions to access the resource (inadequate authentication)
 
 ## [Build a REST API with Node.js, Express & MongoDB](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
-
+Step-by-step video on how to build a REST API and also explains the why behind each line of code used in the server-API setup
 
 ### Questions
 
