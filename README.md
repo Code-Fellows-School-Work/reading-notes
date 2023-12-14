@@ -86,4 +86,8 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 - [Class 12 - CRUD](code-301-reading-notes/class12%20-%20CRUD.md)
 
+- [Class 13 - More CRUD](code-301-reading-notes/class13%20-%20More%20CRUD.md)
+
+- [Class 14 - Diversity and Inclusion](code-301-reading-notes/class14%20-%20Diversity%20&%20Inclusion%20&%20Equality.md)
+
 ## Code 401 - Advanced Software Development

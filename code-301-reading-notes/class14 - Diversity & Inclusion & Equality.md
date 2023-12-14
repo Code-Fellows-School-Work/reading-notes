@@ -5,7 +5,7 @@ This article highlights the shift between the popularity of computers amongst wo
 It describes the cultural shift and theorizes the reason why the tech industry is a male dominated industry.
 
 ### Questions
-
+a
 1. What occurred during the same time as the beginning of the decline of women in computer science?
 - Home computers became available during 1980s and a cultural shift emerged with a narrative that computers were primarily toys for boys.
 2. Why does it matter that males had been playing on computers growing up?
