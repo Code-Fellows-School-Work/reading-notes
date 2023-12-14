@@ -5,13 +5,14 @@ This article highlights the shift between the popularity of computers amongst wo
 It describes the cultural shift and theorizes the reason why the tech industry is a male dominated industry.
 
 ### Questions
-a
+
 1. What occurred during the same time as the beginning of the decline of women in computer science?
 - Home computers became available during 1980s and a cultural shift emerged with a narrative that computers were primarily toys for boys.
 2. Why does it matter that males had been playing on computers growing up?
 It created a narrative that males developed computer skills as a child so as an adult, they already possessed the requisite skills to be sucessful in a computer/tech field.
 
 ## [Why Diversity Matters to You and Your Company](https://www.usatoday.com/story/tech/columnist/2015/07/21/why-diversity-matters-your-tech-company/30419871/)
+Diversity matters. When driven by business leaders, it will lead to better performing teams and more succesfull companies. And it's also the right thing to do as a good human being.
 
 
 ### Questions
