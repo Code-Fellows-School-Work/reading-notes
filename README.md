@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Hello! My name is Errol Vidad - I am a US Navy veteran and I'm pivoting into the tech industry. I am looking forward to improving my current coding skills and eventually specializing in python. My interests include &#x1F3C8;&#x1F3C2;&#x2744;
+Hello! My name is Errol Vidad - I have a background in project management and information systems. I’m a navy veteran and served over 10 years in both active and reserve roles. My military experience exposed me to many of the inefficiencies within the defense industry so my goal is to become a software developer to address those inefficiencies and make a difference for our service members within the Armed Forces. When I'm not busy working on code, I enjoy &#x1F3C8;&#x1F3C2;&#x2744;
 
-This is an online repository to document my journey to become a software developer.
+This is an online repository to document my notes and research for software development.
 
 Please take a look at my [GitHub Profile](https://github.com/evidad)
 
