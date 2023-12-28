@@ -91,3 +91,7 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 - [Class 14 - Diversity and Inclusion](code-301-reading-notes/class14%20-%20Diversity%20&%20Inclusion%20&%20Equality.md)
 
 ## Code 401 - Advanced Software Development
+
+- [Prework - SQL Practice](code-401-reading-notes/sql.md)
+
+- [Prework - Typing Practice](code-401-reading-notes/typing-practice.md)
