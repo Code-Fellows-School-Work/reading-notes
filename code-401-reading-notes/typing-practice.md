@@ -1,0 +1,15 @@
+# Typing Practice Screenshots
+
+![Lesson 1](/code-401-reading-notes/assets/typing/Lesson1.png)
+![Lesson 2](/code-401-reading-notes/assets/typing/Lesson2.png)
+![Lesson 3](/code-401-reading-notes/assets/typing/Lesson3.png)
+![Lesson 4](/code-401-reading-notes/assets/typing/Lesson4.png)
+![Lesson 5](/code-401-reading-notes/assets/typing/Lesson5.png)
+![Lesson 6](/code-401-reading-notes/assets/typing/Lesson6.png)
+![Lesson 7](/code-401-reading-notes/assets/typing/Lesson7.png)
+![Lesson 8](/code-401-reading-notes/assets/typing/Lesson8.png)
+![Lesson 9](/code-401-reading-notes/assets/typing/Lesson9.png)
+![Lesson 10](/code-401-reading-notes/assets/typing/Lesson10.png)
+![Lesson 11](/code-401-reading-notes/assets/typing/Lesson11.png)
+![Lesson 12](/code-401-reading-notes/assets/typing/Lesson12.png)
+![Lesson 13](/code-401-reading-notes/assets/typing/Lesson13.png)
