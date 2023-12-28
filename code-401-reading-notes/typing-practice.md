@@ -5,7 +5,6 @@
 ![Lesson 3](/code-401-reading-notes/assets/typing/Lesson3.png)
 ![Lesson 4](/code-401-reading-notes/assets/typing/Lesson4.png)
 ![Lesson 5](/code-401-reading-notes/assets/typing/Lesson5.png)
-![Lesson 6](/code-401-reading-notes/assets/typing/Lesson6.png)
 ![Lesson 7](/code-401-reading-notes/assets/typing/Lesson7.png)
 ![Lesson 8](/code-401-reading-notes/assets/typing/Lesson8.png)
 ![Lesson 9](/code-401-reading-notes/assets/typing/Lesson9.png)
