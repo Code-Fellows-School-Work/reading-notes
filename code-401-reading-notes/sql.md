@@ -29,9 +29,9 @@ Read the guidance.
 Complete the exercises.
 Capture a screen shot of the completed task list.
 
-![SQL Lession 1](code-401-reading-notes/assets/sql/SQL1.png)
-![SQL Lession 2](code-401-reading-notes/assets/sql/SQL2.png)
-![SQL Lession 3](code-401-reading-notes/assets/sql/SQL3.png)
-![SQL Lession 4](code-401-reading-notes/assets/sql/SQL4.png)
-![SQL Lession 5](code-401-reading-notes/assets/sql/SQL5.png)
-![SQL Lession 6](code-401-reading-notes/assets/sql/SQL6.png)
+![SQL Lession 1](./assets/sql/SQL1.png)
+![SQL Lession 2](./assets/sql/SQL2.png)
+![SQL Lession 3](./assets/sql/SQL3.png)
+![SQL Lession 4](./assets/sql/SQL4.png)
+![SQL Lession 5](./assets/sql/SQL5.png)
+![SQL Lession 6](./assets/sql/SQL6.png)
