@@ -76,7 +76,7 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 - [Class 07 - Node.js](code-301-reading-notes/class07%20-%20Node.js.md)
 
-- [Classs 08 - APIs](code-301-reading-notes/class08%20-%20APIs.md)
+- [Class 08 - APIs](code-301-reading-notes/class08%20-%20APIs.md)
 
 - [Class 09 - Functional Programming](code-301-reading-notes/class09%20-%20Functional%20Programming.md)
 
@@ -97,3 +97,5 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 - [Prework - Typing Practice](code-401-reading-notes/typing-practice.md)
 
 - [Prework - Growth Mindset](code-401-reading-notes/growth-mindset.md)
+
+- [Prework - Practice in the Terminal](code-401-reading-notes/practice-in-the-terminal.md)
