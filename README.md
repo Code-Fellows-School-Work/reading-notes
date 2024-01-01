@@ -95,3 +95,5 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 - [Prework - SQL Practice](code-401-reading-notes/sql.md)
 
 - [Prework - Typing Practice](code-401-reading-notes/typing-practice.md)
+
+- [Prework - Growth Mindset](code-401-reading-notes/growth-mindset.md)

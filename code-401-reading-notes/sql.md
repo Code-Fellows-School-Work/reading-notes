@@ -1,10 +1,5 @@
 # SQL Intro
 
-## Directions for assignment submission:
-When you are finished with all of the lessons, create a new entry in your reading notes repository summarizing your understanding of relational databases and SQL. Include all of your screen shots in this page.
-
-Submit a link to your rendered notes page.
-
 ## Notes
 - Structure Query Language (SQL)
 - SQL enables a user to create, use and manage a database
