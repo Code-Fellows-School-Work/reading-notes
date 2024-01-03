@@ -3,7 +3,7 @@
 ## [Upgrade Your Technical Skills with Deliberate Practice](https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice)
 - Apply deliberate practice in coding by focusing on weak areas or pushing yourself outside of your comfort zone
 - If you build something that you're already familiar with, then you're not applying deliberate practice
-- Other aspects of deliberate practice include: continuous feedback, repeated often and is difficult.
+- Other aspects of deliberate practice include: continuous feedback, repeated often, and is difficult.
 - Personal goal setting for skill improvement is important because only you best understand your skillset
 
 ## [Carol Dweck on the Growth Mindset](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en)
@@ -19,3 +19,6 @@
 - What is success? Have I personally defined what success looks like to me or is my version of success influenced by other's view of success
 - We're in the driver's seat for our own success
 - Focus on my own idea of success instead of being influenced by others on what success is
+
+### Thing I want to know more about
+- No questions, just looking forward to practicing these lessons during the upcoming course.
