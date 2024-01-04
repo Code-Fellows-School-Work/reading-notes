@@ -20,5 +20,13 @@
 - We're in the driver's seat for our own success
 - Focus on my own idea of success instead of being influenced by others on what success is
 
+## Emotional Intelligence Summary
+I don't remember what my exact scores were last time I took this survey, however I do know that I scored below 18 in all areas. This time, I scored exactly 16 in every area so still below the 18 threshold. Without having the numbers from my previous survey, I think I may have improved taking it the second time. I felt like some of the questions were more relatable because I remember experincing that emotional event during the 301-course. These sort of surveys are challenging because it's hard for me to accurately assess myself but I understand it's an important skill to learn and I hope it's something I can work on during the upcoming 401-course.
+
+## Assessing Bias Summary
+- My strongest area is defining bias and identifying it's impact to oneself and others. 
+- My weakest areas are empathy and acting on bias. I think this is a personal challenege I need to overcome because I'm a non-confrontational person and that in itself may cause issues in the long-run within the organization or even my personal development. I'm hoping this is an area I can grow in during the upcoming course.
+- In addition to challenge being con-confrontational, I need to work on breaking out of my comfort zone. Within a couple months, this class will end and my ultimate goal is to land a software dev job and I can't do that if I don't go out to network and meet people. I'm hoping some of the guidance from this class will help make that process easier for me and I'm genuinely excited to socialize and learn about upcoming job opportunities.
+
 ### Thing I want to know more about
 - No questions, just looking forward to practicing these lessons during the upcoming course.
