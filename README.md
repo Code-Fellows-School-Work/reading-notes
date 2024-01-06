@@ -101,3 +101,5 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 - [Prework - Practice in the Terminal](code-401-reading-notes/practice-in-the-terminal.md)
 
 - [Prework - Data Structures and Algorithms](code-401-reading-notes/dsa.md)
+
+- [Prework - Git Practice](code-401-reading-notes/git-practice.md)
