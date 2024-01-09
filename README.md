@@ -107,3 +107,5 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 - [Prework - Git Practice](code-401-reading-notes/git-practice.md)
 
 - [Class 01](code-401-reading-notes/class01.md)
+
+- [Class 02 - Testing and Modules](code-401-reading-notes/class02%20-%20Testing%20and%20Modules.md)
