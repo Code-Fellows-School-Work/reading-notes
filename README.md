@@ -102,6 +102,8 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 - [Prework - Data Structures and Algorithms](code-401-reading-notes/dsa.md)
 
+- [Prework - Engineering Readings](code-401-reading-notes/engineering-readings.md)
+
 - [Prework - Git Practice](code-401-reading-notes/git-practice.md)
 
 - [Class 01](code-401-reading-notes/class01.md)
