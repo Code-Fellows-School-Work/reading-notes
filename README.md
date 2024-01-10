@@ -109,3 +109,5 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 - [Class 01](code-401-reading-notes/class01.md)
 
 - [Class 02 - Testing and Modules](code-401-reading-notes/class02%20-%20Testing%20and%20Modules.md)
+
+- [Class 03 - FileIO & Exceptions](code-401-reading-notes/class03%20-%20FileIO%20&%20Exceptions.md)

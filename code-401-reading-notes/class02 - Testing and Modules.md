@@ -1,4 +1,4 @@
-# Testing and Modules
+# Class 02 - Testing and Modules
 
 ## [In Tests We Trust - TDD with Python](https://code.likeagirl.io/in-tests-we-trust-tdd-with-python-af69f47e6932)
 - Software development strategy designed around writing tests first then writing minimum code to pass the test
@@ -15,28 +15,21 @@
 - ChatGPT ex.
     <pre>
     <code>
-    # my_module.py
-
+    # main_script.py
     def say_hello(name):
         return f"Hello, {name}!"
-
     if __name__ == '__main__':
         print("This will only run if my_module is executed directly.")
-    
     </code>
     </pre>
 
     <pre>
     <code>
     # main_script.py
-
     import my_module
-
-    #Now you can use the functions and variables from my_module
-
+    # Now you can use the functions and variables from my_module
     result = my_module.say_hello("Alice")
     print(result)
-
     </code>
     </pre>
 
