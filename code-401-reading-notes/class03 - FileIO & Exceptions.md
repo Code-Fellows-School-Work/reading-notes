@@ -1,4 +1,4 @@
-# Class 03 - Testing and Modules
+# Class 03 - FileIO & Exceptions
 
 ## [Read & Write Files in Python](https://realpython.com/read-write-files-python/)
 - A file has 3 parts, header (metadata), contents, and end of file (file extension)
