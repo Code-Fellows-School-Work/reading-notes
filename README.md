@@ -111,3 +111,5 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 - [Class 02 - Testing and Modules](code-401-reading-notes/class02%20-%20Testing%20and%20Modules.md)
 
 - [Class 03 - FileIO & Exceptions](code-401-reading-notes/class03%20-%20FileIO%20&%20Exceptions.md)
+
+- [Class 04 - Classes & Objects](code-401-reading-notes/class04%20-%20Classes%20and%20Objects.md)

@@ -20,7 +20,7 @@
     - ```with open('dog_breeds.txt', 'w') as reader: ```
     - Use the ```.write(string)``` method and replace string to write in the file
 
-[Exceptions in Python](https://realpython.com/python-exceptions/)
+## [Exceptions in Python](https://realpython.com/python-exceptions/)
 - Raising an exception is a tactic to help provide more detail to an error
     - Syntactically looks like this:
         - ```raise Exception(string)```
