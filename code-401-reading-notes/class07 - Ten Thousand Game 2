@@ -1,0 +1,37 @@
+# Class 07 - Ten Thousand Game 2
+
+## [Python Scope](https://realpython.com/python-scope-legb-rule/)
+- Scope defines the area in a program where variables, functions and objects are accessible.
+    - Global: all variables, functions and objects are accessible throughout all the code
+        - Can lead to code being unintentionally used or manipulated by other areas of the program
+    - Nonlocal: restricts the use of code to a certain area of the program
+    - In scope: Access a given name within a code
+    - Out of scope: When a given name is unaccessible 
+- ```globals()``` and ```locals()``` are functions that help identify names within a given scope
+    - ```globals()``` returns a dictionary containing the names of all global functions prior to the function call
+    - ```locals()``` when used within a codeblock, returns a dictionary containing the names of all local functions prior to the function call
+
+## [What is Risk Analysis](https://www.edureka.co/blog/risk-analysis-in-software-testing/)
+
+
+## Additional Resources
+
+[Python Random Module](https://docs.python.org/3/library/random.html)
+
+### Questions
+
+1. Explain the concept of variable scope in Python and describe the difference between local and global scope. Provide an example illustrating the usage of both.
+    - Global scope means any variable, function and object is accessible throughout all the code. 
+    - Local scope means these variables, functions and objects are only accessible in a defined area of the program.
+    - [Global and Local Illustration](/code-401-reading-notes/assets/Screenshot%202024-01-15%20112325.png)
+
+2. How do the global and nonlocal keywords work in Python, and in what situations might you use them?
+    - ```globals()``` returns a dictionary containing the names of all global functions prior to the function call
+    - ```locals()``` when used within a codeblock, returns a dictionary containing the names of all local functions prior to the function call
+    - They can be used to help with debugging 
+
+3. In your own words, describe the purpose and importance of Big O notation in the context of algorithm analysis.
+
+4. Based on the Rolling Dice Example, explain how you would simulate a dice roll using Python. Describe how you would use code to calculate the probability of rolling a specific number (e.g., the probability of rolling a 6) over a large number of trials.
+
+## Things I want to know more about

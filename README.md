@@ -116,4 +116,6 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 - [Class 05 - Linked Lists](code-401-reading-notes/class05%20-%20Linked%20List.md)
 
-- [Class 06 - Ten Thound Game 1](code-401-reading-notes/class06%20-%20Ten%20Thousand%20Game%201)
+- [Class 06 - Ten Thousand Game 1](code-401-reading-notes/class06%20-%20Ten%20Thousand%20Game%201)
+
+- [Class 07 - Ten Thousand Game 2](code-401-reading-notes/class07%20-%20Ten%20Thousand%20Game%202)
