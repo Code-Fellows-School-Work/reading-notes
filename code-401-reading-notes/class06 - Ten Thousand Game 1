@@ -1,29 +1,21 @@
-# Class 04 - Classes & Objects
+# Class 06 - Ten Thousand Game 1
 
-## [Classes & Objects](https://www.learnpython.org/en/Classes_and_Objects)
-- Objects encapsulate variables and functions
-- Classes are templates for objects
-- To access the variables and functions within a class, you need to:
-    - create a Class and assign it to a variable.
-    - Access the properties and methods of that Class by using dot notation
-    <pre>
-    <code>
-    class MyClass:
-        variable = "blah"    
-        def function(self):
-            print("This is a message inside the class.")
+## [How to use Random Module](https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python)
+- Random module provides access to functions to generate random numbers and strings
+- ```randit()```: generate a random integer between the two arguments
+- ```random()```: generate a random float between 0 an 1 (no arguments)
+- ```choice()```: select a random element from a collection object and takes in a list, set, tuple, etc as an argument
+- ```shuffle()```: shuffles the elements in the list and accepts a list as an argument
+    - do not assign shuffle to a variable
+- ```randrange()```: select a random elements from a given range.
+    - takes three numbers as arguments for start, stop and step
 
-    myobjectx = MyClass()
-
-    print(myobjectx.variable)
-    </code>
-    </pre>
-
-## [Thinking Recursively](https://realpython.com/python-thinking-recursively/)
-- Recursive (in other words): taking a big problems and breaking it down into smaller problems
-- Recursive (in Python): a function that calls itself and repeats its behavior until a condition is met and a result is returned
-- Keep in mind that state needs to be maintained either through the recursive call or through a global variable
-
+## [What is Risk Analysis](https://www.edureka.co/blog/risk-analysis-in-software-testing/)
+- In the context of software development, risk analysis is the process of identifying risks then prioritizing completion of each risk based on risk severity and impact to the project
+- Steps to perform risk analysis:
+    - Identify risk
+    - Analyze impact to risk
+    - Implement measures to mitigate risk
 
 ## [Pytest Fixtures and Coverage](https://www.linuxjournal.com/content/python-testing-pytest-fixtures-and-coverage)
 - Fixtures enables sharing data across multiple tests
@@ -34,17 +26,21 @@
 [Pytest Fixtures](https://docs.pytest.org/en/latest/explanation/fixtures.html)
 
 ### Questions
-1. What are the key differences between classes and objects in Python, and how are they used to create and manage instances of a class?
-- Objects encapsulate variables and functions and classes are templates for objects. To create an instance of that class, use dot notation 
 
-2. Explain the concept of recursion and provide an example of how it can be used to solve a problem in Python. What are some best practices to follow when implementing a recursive function?
-- When you take a large problem and break it down into smaller problems that are repeatable. Continue to do these repeatable small problems until a specific result is obtained. 
-- Best practices:
-    - Ensure there's a base case to avoid a stack overflow
-    - Ensure state is being managed either in the recursion or as a global variable
+1. How can the random module be utilized in Python to generate random numbers or make selections from a list, and what are some common functions available within the module?
+    - The random module includes several functions that will select a random number or element within a list.
+    - Common functions available include: ```randit()```, ```random()```, ```choice()```, ```shuffle()```, ```randrange()```
 
-3. What is the purpose of pytest fixtures and code coverage in testing Python code? Explain how they can be used together to improve the quality and maintainability of a project.
-- Fixtures help make TDD efficient by sharing data across tests and code coverage helps inform how much of the code was ran through the tests. Fixtures can help reduce duplicate test code and coverage helps ensures there's no gaps in the code that was tested which may lead to unexpected bugs
+2. In the context of software development, what is risk analysis, and what are the key steps involved in conducting a risk analysis for a software project?
+- Risk analysis is the process of identifying risks, assessing each risk, and implementing measures to mitigate risk
+- Steps to conduct risk analysis:
+    1. Identify risks
+    2. Analyze risks
+    3. Mitigate risks
+
+3. What is test coverage and why is it an important (or potentially misleading) metric in software testing?
+
+4. What is Big O notation, and how is it used to describe the performance of an algorithm? Give an example of an everyday task (not software related) that demonstrates O(n) time complexity.
 
 ## Things I want to know more about
 What is __init__ and how do I know when to use it?

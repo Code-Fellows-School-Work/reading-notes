@@ -113,3 +113,7 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 - [Class 03 - FileIO & Exceptions](code-401-reading-notes/class03%20-%20FileIO%20&%20Exceptions.md)
 
 - [Class 04 - Classes & Objects](code-401-reading-notes/class04%20-%20Classes%20and%20Objects.md)
+
+- [Class 05 - Linked Lists](code-401-reading-notes/class05%20-%20Linked%20List.md)
+
+- [Class 06 - Ten Thound Game 1](code-401-reading-notes/class06%20-%20Ten%20Thousand%20Game%201)
