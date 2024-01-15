@@ -4,7 +4,7 @@
 - Random module provides access to functions to generate random numbers and strings
 - ```randit()```: generate a random integer between the two arguments
 - ```random()```: generate a random float between 0 an 1 (no arguments)
-- ```choice()```: select a random element from a collection object and takes in a list, set, tuple, etc as an argument
+- ```choices()```: select a random element from a collection object and takes in a list, set, tuple, etc as an argument
 - ```shuffle()```: shuffles the elements in the list and accepts a list as an argument
     - do not assign shuffle to a variable
 - ```randrange()```: select a random elements from a given range.
@@ -17,13 +17,39 @@
     - Analyze impact to risk
     - Implement measures to mitigate risk
 
-## [Pytest Fixtures and Coverage](https://www.linuxjournal.com/content/python-testing-pytest-fixtures-and-coverage)
-- Fixtures enables sharing data across multiple tests
-- Coverage shows how much of the code was run through the tests
+## [Test Coverage](https://martinfowler.com/bliki/TestCoverage.html)
+- Tool to help find untested code within a codebase
+- Devs focus on test coverage to ensure they are testing enough
+
+## [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)
+
+- Big O describes how time scales with respect to the input variable
+
+- Summarizing the pigeon and internet transfer story:
+    - Regardless of the data size, the pigeon needs to fly a specific distance
+    - However, the amount of data vs time to transfer data is a linear function
+    - Pigeon O(1) for constant time
+    - Internet transfer O(N) where N = amount of data
+
+- Big O rules:
+    1. Different steps get added:
+        - O(a) (step 1)
+        - O(b) (step 2)
+        - = O(a+b)
+    2. Drop constants
+        - O(2N) is actually O(N) 
+    3. Different inputs => Different variables
+        - It is not O(N^2) but instead O(a*b)
+    4. Drop non-dominate terms
+        - O(n+n^2) => O(n^2)
+        - n^2 what really drives and dominates the rate of change 
+
+## [Dependendcy Injection](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/)
+- Technique whereby one static object (or static method) supplies dependencies of another object
 
 ## Additional Resources
 
-[Pytest Fixtures](https://docs.pytest.org/en/latest/explanation/fixtures.html)
+[Python Random Module](https://docs.python.org/3/library/random.html)
 
 ### Questions
 
@@ -39,9 +65,22 @@
     3. Mitigate risks
 
 3. What is test coverage and why is it an important (or potentially misleading) metric in software testing?
+    - Test coverage is a tool to help identify how much code has been tested, however it can be misleading because getting 100% test coverage does not necessarily mean it covers all cases and if not careful, may result in bugs released to production
 
 4. What is Big O notation, and how is it used to describe the performance of an algorithm? Give an example of an everyday task (not software related) that demonstrates O(n) time complexity.
+    - Big O describes the efficiency of an algorithm based on the input size of data. 
+    - When you check your mail, the amount of time it will take to open and read each envelope is directly proportional to the amount of mail you receive. For example, if one envelope to open and read takes 1 minute, then 100 envelopes will take 100 minutes to open and read.
 
 ## Things I want to know more about
-What is __init__ and how do I know when to use it?
+- Why can't I assign a variable to the random function shuffle()? The description of the function says it shuffles the elements in place so does that have to do with why I can't:
+    <pre>
+    <code>
+    import random
+    fruits = ["apple", "banana", "cherry"]
+    integer1 = random.shuffle(fruits)
+    print(integer1)
+    
+    output = None
+     </code>
+     </pre>
 
