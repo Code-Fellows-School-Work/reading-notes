@@ -121,3 +121,5 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 - [Class 07 - Ten Thousand Game 2](code-401-reading-notes/class07%20-%20Ten%20Thousand%20Game%202.md)
 
 - [Class 08 - Ten Thousand Game 3](code-401-reading-notes/class08%20-%20Ten%20Thousand%20Game%203.md)
+
+- [Class 10 - Stacks and Queues](code-401-reading-notes/class10%20-%20Stacks%20and%20Queues.md)
