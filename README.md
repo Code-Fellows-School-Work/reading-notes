@@ -125,3 +125,5 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 - [Class 10 - Stacks and Queues](code-401-reading-notes/class10%20-%20Stacks%20and%20Queues.md)
 
 - [Class 11 - Data Analysis](code-401-reading-notes/class11%20-%20Data%20Analysis.md)
+
+- [Class 12 - Pandas](code-401-reading-notes/class12%20-%20Pandas.md)
