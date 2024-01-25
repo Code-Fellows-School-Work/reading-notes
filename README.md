@@ -129,3 +129,5 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 - [Class 12 - Pandas](code-401-reading-notes/class12%20-%20Pandas.md)
 
 - [Class 13 - Linear Regressions](code-401-reading-notes/class13%20-%20Linear%20Regressions.md)
+
+- [Class 14 - Data Visualization](code-401-reading-notes/class14%20-%20Data%20Viz.md)
