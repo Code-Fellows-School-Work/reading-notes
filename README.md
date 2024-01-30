@@ -131,3 +131,9 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 - [Class 13 - Linear Regressions](code-401-reading-notes/class13%20-%20Linear%20Regressions.md)
 
 - [Class 14 - Data Visualization](code-401-reading-notes/class14%20-%20Data%20Viz.md)
+
+- [Class 15 - Trees](code-401-reading-notes/class15%20-%20Trees.md)
+
+- [Class 16 - Serverless](code-401-reading-notes/class16%20-%20Serverless%20Functions.md)
+
+- [Class 17 - Web Scrapping](code-401-reading-notes/class17%20-%20Web%20Scrapping.md)
