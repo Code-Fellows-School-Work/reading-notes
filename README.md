@@ -137,3 +137,7 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 - [Class 16 - Serverless](code-401-reading-notes/class16%20-%20Serverless%20Functions.md)
 
 - [Class 17 - Web Scrapping](code-401-reading-notes/class17%20-%20Web%20Scrapping.md)
+
+- [Class 18 - Cryptography](code-401-reading-notes/class18%20-%20Cryptography.md)
+
+- [Class 19 - Automation](code-401-reading-notes/class19%20-%20Automation.md)
