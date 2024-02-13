@@ -143,3 +143,5 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 - [Class 19 - Automation](code-401-reading-notes/class19%20-%20Automation.md)
 
 - [Class 26 - Intro to Django](code-401-reading-notes/class26%20-%20Intro%20to%20Django.md)
+
+- [Class 27 - Django Models](code-401-reading-notes/class27%20-%20Django%20Models.md)
