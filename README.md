@@ -145,3 +145,5 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 - [Class 26 - Intro to Django](code-401-reading-notes/class26%20-%20Intro%20to%20Django.md)
 
 - [Class 27 - Django Models](code-401-reading-notes/class27%20-%20Django%20Models.md)
+
+- [Class 28 - Django CRUD and Forms](code-401-reading-notes/class28%20-%20Django%20CRUD%20and%20Forms.md)
