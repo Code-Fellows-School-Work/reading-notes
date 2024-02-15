@@ -1,4 +1,4 @@
-# Readings: Django CRUD and Forms
+# Class 28 - Django CRUD and Forms
 
 ## Reading
 
