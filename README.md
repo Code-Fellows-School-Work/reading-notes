@@ -114,7 +114,7 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 - [Class 04 - Classes & Objects](code-401-reading-notes/class04%20-%20Classes%20and%20Objects.md)
 
-- [Class 05 - Linked Lists](code-401-reading-notes/class05%20-%20Linked%20List.md)
+- [Class 05 - Linked Lists Quiz](code-401-reading-notes/class05%20-%20Linked%20List.md)
 
 - [Class 06 - Ten Thousand Game 1](code-401-reading-notes/class06%20-%20Ten%20Thousand%20Game%201.md)
 
@@ -122,7 +122,7 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 - [Class 08 - Ten Thousand Game 3](code-401-reading-notes/class08%20-%20Ten%20Thousand%20Game%203.md)
 
-- [Class 10 - Stacks and Queues](code-401-reading-notes/class10%20-%20Stacks%20and%20Queues.md)
+- [Class 10 - Stacks and Queues Quiz](code-401-reading-notes/class10%20-%20Stacks%20and%20Queues.md)
 
 - [Class 11 - Data Analysis](code-401-reading-notes/class11%20-%20Data%20Analysis.md)
 
@@ -132,7 +132,7 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 - [Class 14 - Data Visualization](code-401-reading-notes/class14%20-%20Data%20Viz.md)
 
-- [Class 15 - Trees](code-401-reading-notes/class15%20-%20Trees.md)
+- [Class 15 - Trees Quiz](code-401-reading-notes/class15%20-%20Trees.md)
 
 - [Class 16 - Serverless](code-401-reading-notes/class16%20-%20Serverless%20Functions.md)
 
@@ -147,3 +147,9 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 - [Class 27 - Django Models](code-401-reading-notes/class27%20-%20Django%20Models.md)
 
 - [Class 28 - Django CRUD and Forms](code-401-reading-notes/class28%20-%20Django%20CRUD%20and%20Forms.md)
+
+- [Class 29 - Django Custom User](code-401-reading-notes/class29%20-%20Django%20Custom%20User.md)
+
+- [Class 30 - Hash Tables Quiz](code-401-reading-notes/class30%20-%20Hash%20Tables.md)
+
+- [Class 31 - Django REST Framework & Docker](code-401-reading-notes/class31%20-%20Django%20REST%20Framework%20&%20Docker.md)
