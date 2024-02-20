@@ -16,8 +16,8 @@
 ```UPDATE: modify exisiting data```
 - Before updating and deleting a row of data, use a select and where statement to ensure you're targeting the correct row of data
 - Format for a SQL query
-1. SELECT statement to declare what data to search for
-2. FROM statement to declare where to search
+1. SELECT statement specifies the data to be displayed
+2. FROM statement specifies the source of the data
 3. Optional statement to delcare how to transform the data
 
 ## Directions for assignment submission:
