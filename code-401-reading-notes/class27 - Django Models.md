@@ -40,7 +40,7 @@ Reused from my retro, steps to start a Django application:
 - In projects.urls add ```path('', include('snacks.urls')),```
 - Create templates folder with html file
 - In settings.py add ```BASE_DIR/'templates',``` to 'DIRS'
-- In base.html, add ```{% block content %} and {% endblock content %}```
+- In base.html, add ```*strawberries block content *strawberries and *strawberries endblock content *strawberries```
 
 ## Things I want to know more about
 
