@@ -37,10 +37,10 @@ Reused from my retro, steps to start a Django application:
 - Add gitignore, readme, and initalize git repo
 - In the app folder, add class to views.py
 - In the app folder, add urls.py
-- In projects.urls add path('', include('snacks.urls')),
+- In projects.urls add ```path('', include('snacks.urls')),```
 - Create templates folder with html file
-- In settings.py add BASE_DIR/'templates', to 'DIRS'
-- In base.html, add {% block content %} and {% endblock content %} 
+- In settings.py add ```BASE_DIR/'templates',``` to 'DIRS'
+- In base.html, add ```{% block content %} and {% endblock content %}```
 
 ## Things I want to know more about
 
