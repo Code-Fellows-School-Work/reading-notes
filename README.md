@@ -153,3 +153,5 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 - [Class 30 - Hash Tables Quiz](code-401-reading-notes/class30%20-%20Hash%20Tables.md)
 
 - [Class 31 - Django REST Framework & Docker](code-401-reading-notes/class31%20-%20Django%20REST%20Framework%20&%20Docker.md)
+
+- [Class 32 - Django REST Permissions and Postgresql](code-401-reading-notes/class32%20-%20Permissions%20and%20Postgresql.md)
