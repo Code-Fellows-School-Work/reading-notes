@@ -155,3 +155,5 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 - [Class 31 - Django REST Framework & Docker](code-401-reading-notes/class31%20-%20Django%20REST%20Framework%20&%20Docker.md)
 
 - [Class 32 - Django REST Permissions and Postgresql](code-401-reading-notes/class32%20-%20Permissions%20and%20Postgresql.md)
+
+- [Class 33 - Django Authentication and Production Servers](code-401-reading-notes/class33%20-%20Authentication%20&%20Production%20Server.md)

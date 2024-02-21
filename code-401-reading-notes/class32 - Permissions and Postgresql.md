@@ -1,7 +1,5 @@
 # Class 32 - Permissions & Postgresql
 
-Description of the assignment
-
 ## Reading
 
 - [DRF Permissions](https://www.django-rest-framework.org/api-guide/permissions/)
