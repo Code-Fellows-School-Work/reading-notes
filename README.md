@@ -157,3 +157,5 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 - [Class 32 - Django REST Permissions and Postgresql](code-401-reading-notes/class32%20-%20Permissions%20and%20Postgresql.md)
 
 - [Class 33 - Django Authentication and Production Servers](code-401-reading-notes/class33%20-%20Authentication%20&%20Production%20Server.md)
+
+- [Class 34 - Django API Deployment](code-401-reading-notes/class34%20-%20API%20Deployment.md)
