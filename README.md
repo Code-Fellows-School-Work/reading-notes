@@ -167,3 +167,5 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 - [Class 37 - React 1](code-401-reading-notes/class37%20-%20React%201.md)
 
 - [Class 38 - React 2](code-401-reading-notes/class38%20-%20React%202.md)
+
+- [Class 39 - React 3](code-401-reading-notes/class39%20-%20React%203.md)
