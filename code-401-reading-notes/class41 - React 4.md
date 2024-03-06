@@ -22,8 +22,6 @@
     - Unlike static routes that are predefined paths within the web application, dynamic routes enable web pages to display different content based on the post ID
     - It uses a special syntax such as [id].js
 
->*Answer*
-
 ### Describe the process of deploying a Next.js application. What are the key steps involved, and what are some deployment platforms you can use?
 
     - Push all code updates to GitHub, import project into Vercel, and verify implementation settings prior to deployment

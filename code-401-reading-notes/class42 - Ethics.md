@@ -1,0 +1,11 @@
+# Class 41 - React 4
+
+## Reading
+
+- [Microsoft and the DoD](https://web.archive.org/web/20200616232735/https://www.businessinsider.com/microsoft-employees-protest-contract-us-army-hololens-2019-2)
+
+    - As a software developer that plans to join a defense tech company, I found this article very controversial. Being a former military service member, I do not consider the development of military technology as a means of "war profiteering", but rather a means to save lives. The emerging technology referred to in the article describes the development of a system that will help train US Army soldiers to get the edge on their adversaries. If the purpose of the US military is to protect our nation and win wars then developing technology to help the military do just that is fine with me. If the US military goes into war without the proper training that is enabled or enhanced by developed technolgy, then our adversaries will have the upper hand and good people will die. I respect the opinions of the software developers that petitioned against working on the DoD project and if they don't support project's end goal then simply move on to a different one.
+
+- [Ethical Dilemma of Self Driving Cars](https://www.theglobeandmail.com/globe-drive/culture/technology/the-ethical-dilemmas-of-self-drivingcars/article37803470/)
+
+    - I'm glad people are thinking about this because it's a hard topic to answer. This article highlights the faster reaction time of AI technologies' vs. human reaction time, but it also recognizes the ethical problem of AI when faced with situations when human lives are at risk. Humans have a natural tendency towards self-preservation so when they find themselves in an incoming vehicle accident, then they will take actions to protect themselves. Machines and AI on the otherhands don't think the same way so how do you program something to make the right choices? I don't think there will ever be a right answer but I do believe we need to do our due diligence and research our options to help come to a collective solution.
