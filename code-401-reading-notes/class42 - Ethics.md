@@ -1,4 +1,4 @@
-# Class 41 - React 4
+# Class 42 - Ethics
 
 ## Reading
 

@@ -173,3 +173,5 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 - [Class 41 - React 4](code-401-reading-notes/class41%20-%20React%204.md)
 
 - [Class 42 - Pythonisms](code-401-reading-notes/class42%20-%20Pythonisms.md)
+
+- [Class 42 - Ethics](code-401-reading-notes/class42%20-%20Ethics.md)
